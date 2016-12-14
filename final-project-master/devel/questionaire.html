@@ -1,0 +1,83 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>xenoblade chronicles x</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+ <body background="julians-background.JPG"> 
+  <form id="space">
+  <style> 
+p {
+  font-size: 35px;
+  } </style>
+ <p class="text-center" style="color:red">do you own xenoblade chronicles x?</p>
+ <p class="text-center"><label class="text-center" style="color:red"><input   type="radio" name="space" value="1"> 1yes</label></p>
+ <p class="text-center"><label class="text-center" style="color:red"><input  type="radio" name="space" value="0"> 0 no</label></p>
+  
+ <p class="text-center" style="color:red">do you like jrpg's?</p>
+ <p class="text-center"><label  style="color:red"><input  type="radio" name="question-2" value="1"> 1 yes</label></p>
+ <p class="text-center"><label  style="color:red"><input type="radio" name="question-2" value="> 0 no</label></p>
+  
+ <p class="text-center"><label  style="color:red">do you like open world video games?</p>
+ <p class="text-center"><label  style="color:red"><input  type="radio" name="question-3"> 1 yes</label></p>
+ <p class="text-center"><label  style="color:red"><input  type="radio" name="question-3"> 0 no</label>
+  
+ <p class="text-center" class="text-center" style="color:red">do you like skill based combat?</p>
+ <p class="text-center"><label  style="color:red"><input   type="radio" name="question-4"> 1 yes</label></p>
+ <p class="text-center"><label  style="color:red"><input  type="radio" name="question-4"> 0 no</label>
+
+ 
+ </form></body>
+ <HEAD>
+<TITLE>Test Input Validation</TITLE>
+<SCRIPT LANGUAGE="JavaScript">var rates = document.getElementsByName("question-1");
+var rate_value;
+for(var i = 0; i < rates.length; i++){
+    if(rates[i].checked){
+        rate_value = rates[i].value;
+		alert ("yes");
+    }
+}
+function xenoblade (form) {for(var i = 0; i < rates.length; i++){
+    if(rates[i].value=="1"){
+   
+		alert ("yes");
+    }
+}var form = document.getElementById("question-2");
+alert(form.elements["space"].value);}
+function testResults (form) {for(var i = 0; i < rates.length; i++){
+    if(rates[i].checked){
+        rate_value = rates[i].value;
+		alert ("yes");
+    }
+}
+    TestVar = isNumberString (form.inputbox.value)
+    if (TestVar == 1)
+        alert (location = "responsepage2.html");
+    else
+        alert (location ="responsepage.html");
+}
+function isNumberString (InString)  {
+    if(InString.length==0) return (false);
+    var RefString="3,4";
+    for (Count=0; Count < InString.length; Count++)  {
+        TempChar= InString.substring (Count, Count+1);
+        if (RefString.indexOf (TempChar, 0)==-1)  
+            return (false);
+    }
+    return (true);
+}
+</SCRIPT>
+</HEAD>
+<BODY>
+<FORM style="color:red" class="text-center" NAME="myform">
+add up the values of your answers and press submit: 
+<INPUT TYPE="text" NAME="inputbox" VALUE="77e">
+<INPUT TYPE="button" NAME="button" Value="submit" onClick="testResults(this.form)" >
+</FORM>
+</BODY>
+</HTML>
