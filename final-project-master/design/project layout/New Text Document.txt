@@ -1,0 +1,151 @@
+The home page will have a heading of storyline battleclases skells and characters
+these will be buttons that connect to other web pages with the title and description of the title
+the home page will start you on the storyline page
+
+storyline page layout
+this will all apear bellow the heading
+story description
+chapter 1 d 
+prerequisites
+chapter 2 d
+prerequisites
+chapter 3 d
+prerequisites
+chapter 4
+prerequisites
+chapter 5
+prerequisites
+chapter 6
+prerequisites
+chapter 7
+prerequisites
+chapter 8
+prerequisites
+chapter 9
+prerequisites
+chapter 10 
+prerequisites
+chapter 11
+prerequisites
+chapter 12
+prerequisites
+when the site initializes it will first bring you to a quistionaire
+depending on the answers it will either direct you to the walkthrough 
+or to a site to buy the game
+
+quistionaire page layout
+do you own xenoblade chronicles x?
+yes no
+do you like jrpg's?
+yes no
+do you like open world video games?
+yes no
+do you like skill based combat?
+yes no
+
+so if you say yes to the first quistion no matter what it will direct you to the walkthrough
+when you click submit
+but if you say no to the first quistion it will direct you to a page with links to amazon
+to buy the game or just go straight to the walkthrough
+if you say yes to at least two of the next three questions and press submit
+ 
+battle class page layout
+what a battle class is
+
+					level 1 battle classes
+drifter d
+gameplay video
+					level 2 battle classes
+striker d
+gameplay video
+
+commando d
+gameplay video
+
+enforcer d
+gameplay video
+					level 3 battle classes
+samurai gunner d
+gameplay video
+
+shield trooper d
+gameplay video
+
+winged viper d
+gameplay video
+
+partisan eagle d
+gameplay video
+
+psycorruptor d
+gameplay video
+
+blast fencer d
+gameplay video
+
+					level 4 battle class
+once this class is mastered you can use this clases weapons when in any other class
+
+duelist d
+gameplay video
+
+bastion warrior d
+gmaeplay video
+
+fullmetal jaguar d
+gameplay video
+
+astral crusader d
+gameplay video 
+
+mastermind d
+gameplay video
+
+galactic knight d
+gameplay video
+
+skells page layout
+description of what a skell is
+gameplay video
+
+urban d
+img
+
+lailah d
+img
+
+formula d
+img
+
+verus d
+img
+
+inferno d
+img
+
+mastema d
+img
+
+amudusias d
+img.
+
+after beating the game you can build a level 60 version of all the skells listed above including these
+2 skells which are the best in the game
+
+ares 70 d
+img
+
+ares 90 d
+img 
+gameplay video
+
+characters page layout
+the game of xenoblade chronicles x has ton of characters, but some of these characters are recruitable 
+for your team in the game in this page we will give a description about all these characters
+also on how to recruit them for you team
+
+underneath this will be a list of all the character
+also a picture and how to recruit these characters
+
+
+
